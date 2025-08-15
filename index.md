@@ -31,8 +31,8 @@ Hi! My name is Malachi Mendoza
 <a href="https://kasm.opencodingsociety.com/" class="button small" style="background-color: #6b4bd3ff">
     KASM
 </a>
-<a href="https://vscode.dev/" class="button small" style="background-color: #d38a4bff">
-    <span style="color: #FFFFFF">VSCODE</span>
+<a href="https://vscode.dev/" class="button small" style="background-color: #834f23ff">
+    <span style="color: #44a640ff">VSCODE</span>
 </a>
 
 <br>
@@ -42,8 +42,8 @@ Hi! My name is Malachi Mendoza
 <a href="{{site.baseurl}}/snake" class="button small" style="background-color: #6b4bd3ff">
     Snake Game
 </a>
-<a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #2A7DB1">
-    <span style="color: #000000">Turtle</span>
+<a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #b270bfff">
+    <span style="color: #47619dff">Turtle</span>
 </a>
 
 <br>
@@ -53,4 +53,4 @@ Hi! My name is Malachi Mendoza
 
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
-<p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+<p style="color: #4886acff;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #459e80ff; text-decoration: underline;">Socials</a></p>
