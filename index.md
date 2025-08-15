@@ -53,4 +53,4 @@ Hi! My name is Malachi Mendoza
 
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
-<p style="color: #4886acff;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #459e80ff; text-decoration: underline;">Socials</a></p>
+<p style="color: #ec3a23ff;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #459e80ff; text-decoration: underline;">Socials</a></p>
