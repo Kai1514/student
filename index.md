@@ -1,6 +1,6 @@
 ---
 layout: base
-title: I'm Malachi Mendoza]
+title: I'm Malachi Mendoza
 hide: true
 ---
 
