@@ -1,12 +1,12 @@
 ---
 layout: base
-title: I'm [Malachi Mendoza]
+title: I'm Malachi Mendoza
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is [Malachi Mendoza].
+Hi! My name is Malachi Mendoza.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
