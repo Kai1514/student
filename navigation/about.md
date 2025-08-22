@@ -113,8 +113,8 @@ Here is what I did at those places
 
 Everything for me, as for many others, revolves around family and faith.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
+- According to my family, I am almost fully Filipino with traces of Chinese and Spanish
+- My family is pretty big as I have 3 younger siblings, Maggie (10), Aria (5), and Micah (3). My name to my family is Malachi or Kai.
 - The gallery of pics has some of my family, fun, culture and faith memories.
 
 <comment>
