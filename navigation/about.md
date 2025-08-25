@@ -113,8 +113,7 @@ Here is what I did at those places
 
 Everything for me, as for many others, revolves around family and faith.
 
-- According to my family, I am almost fully Filipino with traces of Chinese and Spanish
-- My family is pretty big as I have 3 younger siblings, Maggie (10), Aria (5), and Micah (3). My name to my family is Malachi or Kai.
+
 - The gallery of pics has some of my family, fun, culture and faith memories.
 
 <comment>
